@@ -1,0 +1,20 @@
+{
+  "name": "endangered_formative_back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaurindoSousa/Endangered_Formative_Back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaurindoSousa/Endangered_Formative_Back/issues"
+  },
+  "homepage": "https://github.com/LaurindoSousa/Endangered_Formative_Back#readme"
+}
